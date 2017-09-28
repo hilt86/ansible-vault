@@ -130,7 +130,7 @@ variable definition file.
 
 ### Troubleshooting
 
-If you use the version of Ansible shipped with Ubuntu 16.04 (2.0.0.2-2ubuntu1) and get the error ```Error was sequence item 0: expected string, dict found``` then you should [`install Ansible from the PPA`](http://docs.ansible.com/ansible/latest/intro_installation.html#getting-ansible) instead. Related to [`this Ansible PR`](https://github.com/ansible/ansible/pull/14591)
+If you use the version of Ansible shipped with Ubuntu 16.04 (2.0.0.2-2ubuntu1) and get the error ```Error was sequence item 0: expected string, dict found``` then you should [install Ansible from the PPA](http://docs.ansible.com/ansible/latest/intro_installation.html#getting-ansible) instead. Related to [this Ansible PR](https://github.com/ansible/ansible/pull/14591)
 
 
 ### What's the difference between `ansible-vault` and [`hashi_vault`](https://github.com/ansible/ansible/blob/devel/lib/ansible/plugins/lookup/hashi_vault.py)
